@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="libs">
+    <archive path="C:/Users/marco/OneDrive/Desktop/client-java/client-java/libs/mariadb-java-client-3.0.8.jar" />
+    <archive path="C:/Users/marco/OneDrive/Desktop/client-java/client-java/libs/mysql-connector-j-8.0.31.jar" />
+  </library>
+</eclipse-userlibraries>
+
